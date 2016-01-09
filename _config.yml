@@ -1,0 +1,28 @@
+name: adam
+favicon: null
+layout_spectrum: 0.8542022954206914
+typography_spectrum: 0.9384553872514516
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.46274720155633986
+  lightness: 0.8738246306311339
+  saturation: 0.255767525639385
+  rhythmicContrast: 0.6102429437451065
+purpose: []
